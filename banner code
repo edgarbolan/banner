@@ -1,0 +1,33 @@
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js">
+
+</script>
+
+<div id="carousel-wrapper">
+	<div class="carousel-slides">
+
+
+<ul>
+<li><a href="https://source.vmware.com/hr/Pages/EPIC2-Manager-Survey.aspx"><img style="border:0;" src="https://source.vmware.com/hr/PublishingImages/carousel/EPIC2-manager-source-hm-600x220.png"></li>
+<li><a href="https://myvmware.workspaceair.com/SAAS/API/1.0/GET/apps/launch/app/db59b506-243a-45a6-b010-4381f8a276df"><img style="border:0;" src="https://source.vmware.com/hr/PublishingImages/carousel/LinkedIn-Learning-HR-Home-Banner.png"></li>
+<li><a href="https://benefits.vmware.com"><img style="border:0;" src="https://source.vmware.com/hr/PublishingImages/carousel/Carousel-global-benefits-site-launch.png"></li>
+<li><a href="https://align.ustream.tv/channel/23549818/video/116829717"><img style="border:0;" src="https://source.vmware.com/hr/PublishingImages/carousel/HR-Home-Header-HR-Source.png"></li>
+</ul>
+
+
+	</div>
+	<div class="carousel-controls">
+		<ul>
+			<li><a class="gallery-btn-prev gallery-control" href="javascript:void(0);"><img src="https://source.vmware.com/hr/PublishingImages/prev.png"></a></li>
+			
+      <li><a class="gallery-btn-item 1 gallery-control" href="javascript:void(0);"><img src="https://source.vmware.com/hr/PublishingImages/slide-active.png" id="slide-1-icon"></a></li>
+
+			<li><a class="gallery-btn-item 2 gallery-control" href="javascript:void(0);"><img src="https://source.vmware.com/hr/PublishingImages/slide.png" id="slide-2-icon"></a></li>
+
+			<li><a class="gallery-btn-item 3 gallery-control" href="javascript:void(0);"><img src="https://source.vmware.com/hr/PublishingImages/slide.png" id="slide-3-icon"></a></li>
+
+			<li><a class="gallery-btn-item 4 gallery-control" href="javascript:void(0);"><img src="https://source.vmware.com/hr/PublishingImages/slide.png" id="slide-4-icon"></a></li>
+			
+			<li><a class="gallery-btn-next gallery-control" href="javascript:void(0);"><img src="https://source.vmware.com/hr/PublishingImages/next.png"></a></li>
+		</ul>
+	</div>
+</div>
